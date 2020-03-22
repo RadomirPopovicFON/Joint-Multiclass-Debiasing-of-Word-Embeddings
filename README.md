@@ -1,9 +1,9 @@
 # Joint-Multiclass-Debiasing-of-Word-Embeddings
 This repository contains code for the paper: *Joint Multiclass Debiasing of Word Embeddings*, accepted for *25th International Symposium on Intelligent Systems (ISMIS 2020), Graz, Austria, September 2020*. 
 
-*URL of the paper will appear here*
+![SoftWEAT](https://github.com/RadomirPopovicFON/Joint-Multiclass-Debiasing-of-Word-Embeddings/blob/master/Images/softweat_change.png "SoftWEAT Debiasing on FastText Word Embedding.")
 
-![SoftWEAT](https://github.com/RadomirPopovicFON/Joint-Multiclass-Debiasing-of-Word-Embeddings/blob/master/Images/softweat_change.png)
+*URL of the paper will appear here*
 
 ## Description
 
