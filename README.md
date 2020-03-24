@@ -13,6 +13,6 @@ Here, samples of [Word2Vec](https://drive.google.com/uc?id=0B7XkCwpI5KDYNlNUTTlS
 
 ## Installation
 
-[Python environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) can be installed using libraries listed in [requirements.txt](https://github.com/RadomirPopovicFON/Joint-Multiclass-Debiasing-of-Word-Embeddings/blob/master/requirements.txt) file. Project was done by in Python 3.6.
+For running [Main.ipynb](https://github.com/RadomirPopovicFON/Joint-Multiclass-Debiasing-of-Word-Embeddings/blob/master/Main.ipynb), [python environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) can be created using libraries listed in [requirements.txt](https://github.com/RadomirPopovicFON/Joint-Multiclass-Debiasing-of-Word-Embeddings/blob/master/requirements.txt) file. Project was done by in Python 3.6. 
 
 
