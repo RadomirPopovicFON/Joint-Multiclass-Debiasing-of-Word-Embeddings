@@ -1,7 +1,7 @@
 # Joint-Multiclass-Debiasing-of-Word-Embeddings
 This repository contains code for the paper: *Joint Multiclass Debiasing of Word Embeddings*, accepted for *25th International Symposium on Intelligent Systems (ISMIS 2020), Graz, Austria, September 2020*. 
 
-*arxiv.org version of the paper: https://arxiv.org/abs/2003.11520.*
+*Paper (arxiv.org version) can be found on: https://arxiv.org/abs/2003.11520.*
 
 ## Description
 
